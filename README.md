@@ -36,11 +36,11 @@ CMRN addresses fundamental limitations of transformer architectures:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/cmrn-pytorch.git
+git clone https://github.com/samozturk/Composable-Memory-Routing-Networks
 cd cmrn-pytorch
 
 # Install dependencies
-pip install -r requirements.txt
+uv sync
 
 # Install in development mode
 pip install -e .
@@ -589,7 +589,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 ### Development Setup
 ```bash
 # Install development dependencies
-pip install -r requirements-dev.txt
+uv sync
 
 # Run tests
 pytest tests/
