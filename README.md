@@ -41,9 +41,6 @@ cd cmrn-pytorch
 
 # Install dependencies
 uv sync
-
-# Install in development mode
-pip install -e .
 ```
 
 ### Requirements
