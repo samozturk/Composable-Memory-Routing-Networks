@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-selfcheck.json
+
+# Virtual environments
+.venv
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.so
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+demo.ipynb
+
+# Other
+.DS_Store
+
