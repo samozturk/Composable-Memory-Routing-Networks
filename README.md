@@ -26,11 +26,11 @@ CMRN addresses fundamental limitations of transformer architectures:
 
 ## Key Features
 
-🧠 **Modular Expert System** - Sparse mixture of specialized experts with persistent memory
-🔀 **Dynamic Routing** - Transformer-free routing controller with learned pathways  
-💾 **External Memory** - Differentiable vector database with infinite context
-⏰ **Temporal Awareness** - Hierarchical memory for long-horizon reasoning
-🔧 **Self-Compression** - Autoencoder-based pattern compression and caching
+🧠 **Modular Expert System** - Sparse mixture of specialized experts with persistent memory </br>
+🔀 **Dynamic Routing** - Transformer-free routing controller with learned pathways  </br>
+💾 **External Memory** - Differentiable vector database with infinite context </br>
+⏰ **Temporal Awareness** - Hierarchical memory for long-horizon reasoning </br>
+🔧 **Self-Compression** - Autoencoder-based pattern compression and caching </br>
 
 ## Installation
 
